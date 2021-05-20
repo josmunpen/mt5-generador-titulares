@@ -1,0 +1,4 @@
+transformers
+bs4
+re
+streamlit
