@@ -1,3 +1,4 @@
 transformers
 bs4
 streamlit
+torch
